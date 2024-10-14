@@ -14,31 +14,31 @@ Review of papers on artificial intelligence
   <tbody>
     <tr>
       <td rowspan="2">Convolutional_Neural_Network</td>
-      <td><a href="#">ImageNet Classification with Deep Convolutional Neural Networks</a></td>
-      <td><a href="#">✅</a></td>
-      <td><a href="#">❌</a></td>
+      <td>ImageNet Classification with Deep Convolutional Neural Networks</td>
+      <td>Review</td>
+      <td>Implement</td>
     </tr>
     <tr>
-      <td><a href="#">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></td>
-      <td><a href="#">Review</a></td>
-      <td><a href="#">Implement</a></td>
+      <td>Very Deep Convolutional Networks for Large-Scale Image Recognition</td>
+      <td>Review</td>
+      <td>Implement</td>
     </tr>
     <tr>
       <td>Image_Detection</td>
-      <td><a href="#">Rich feature hierarchies for accurate object detection and semantic segmentation</a></td>
-      <td><a href="#">Review</a></td>
-      <td><a href="#">Implement</a></td>
+      <td>Rich feature hierarchies for accurate object detection and semantic segmentation</td>
+      <td>Review</td>
+      <td>Implement</td>
     </tr>
     <tr>
       <td rowspan="2">Segmentation</td>
-      <td><a href="#">SegNet A Deep Convolutional Encoder Decoder</a></td>
-      <td><a href="#">Review</a></td>
-      <td><a href="#">Implement</a></td>
+      <td>SegNet A Deep Convolutional Encoder Decoder</td>
+      <td>Review</td>
+      <td>Implement</td>
     </tr>
     <tr>
-      <td><a href="#">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
-      <td><a href="#">Review</a></td>
-      <td><a href="#">Implement</a></td>
+      <td>U-Net Convolutional Networks for Biomedical Image Segmentation</td>
+      <td>Review</td>
+      <td>Implement</td>
     </tr>
     <tr>
       <td>Bone_Fracture</td>
