@@ -30,7 +30,7 @@ Review of papers on artificial intelligence
       <td><a href="#">Implement</a></td>
     </tr>
     <tr>
-      <td>Segmentation</td>
+      <td rowspan="2">Segmentation</td>
       <td><a href="#">SegNet A Deep Convolutional Encoder Decoder</a></td>
       <td><a href="#">Review</a></td>
       <td><a href="#">Implement</a></td>
