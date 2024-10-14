@@ -15,7 +15,7 @@ Review of papers on artificial intelligence
     <tr>
       <td rowspan="2">Convolutional_Neural_Network</td>
       <td><a href="#">ImageNet Classification with Deep Convolutional Neural Networks</a></td>
-      <td><a href="#">⭕</a></td>
+      <td><a href="#">✅</a></td>
       <td><a href="#">❌</a></td>
     </tr>
     <tr>
