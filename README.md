@@ -2,7 +2,7 @@
 
 Review of papers on artificial intelligence
 
-| Folder                      | Paper Name                                                                                              | Review  | Implement |
+| Folder                      | Paper Name                                                                                              | Review  | Code |
 |-----------------------------|---------------------------------------------------------------------------------------------------------|---------|-----------|
 | Convolutional_Neural_Network | [ImageNet Classification with Deep Convolutional Neural Networks](#)                                      | [Review](#)  | [Implement](#)  |
 |                              | [Very Deep Convolutional Networks for Large-Scale Image Recognition](#)                                   | [Review](#)  | [Implement](#)  |
