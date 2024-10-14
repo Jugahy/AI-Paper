@@ -14,29 +14,29 @@ Review of papers on artificial intelligence
   <tbody>
     <tr>
       <td rowspan="2">Convolutional_Neural_Network</td>
-      <td><a href="#">ImageNet Classification with Deep Convolutional Neural Networks</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Convolutional%20Neural%20Network/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks">ImageNet Classification with Deep Convolutional Neural Networks</a></td>
       <td align="center">✅</td>
       <td align="center">✅</td>
     </tr>
     <tr>
-      <td><a href="#">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Convolutional%20Neural%20Network/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></td>
       <td align="center">✅</td>
       <td align="center">✅</td>
     </tr>
     <tr>
       <td>Image_Detection</td>
-      <td><a href="#">Rich feature hierarchies for accurate object detection and semantic segmentation</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Image_Detection/Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation">Rich feature hierarchies for accurate object detection and semantic segmentation</a></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
     <tr>
       <td rowspan="2">Segmentation</td>
-      <td><a href="#">SegNet A Deep Convolutional Encoder Decoder</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Segmentation/SegNet%20A%20Deep%20Convolutional%20Encoder%20Decoder.pdf">SegNet A Deep Convolutional Encoder Decoder</a></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
     <tr>
-      <td><a href="#">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Segmentation/U-Net%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
