@@ -36,7 +36,7 @@ Review of papers on artificial intelligence
       <td><a href="#">Implement</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>
       <td><a href="#">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
       <td><a href="#">Review</a></td>
       <td><a href="#">Implement</a></td>
