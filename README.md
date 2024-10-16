@@ -36,7 +36,7 @@ Review of papers on artificial intelligence
       <td align="center">❌</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Segmentation/U-Net%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Segmentation/U-Net%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation/(Review)%20U-Net%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf">U-Net Convolutional Networks for Biomedical Image Segmentation</a></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
