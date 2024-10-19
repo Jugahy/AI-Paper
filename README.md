@@ -24,9 +24,15 @@ Review of papers on artificial intelligence
       <td align="center">✅</td>
     </tr>
     <tr>
-      <td>Image_Detection</td>
+      <td rowspan="2">Image_Detection</td>
       <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Image_Detection/Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation">Rich feature hierarchies for accurate object detection and semantic segmentation</a></td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
+    </tr>
+        </tr>
+    <tr>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Image_Detection/Fast%20R-CNN/(Review)%20Fast%20R-CNN.pptx">Fast R-CNN</a></td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
     </tr>
     <tr>
