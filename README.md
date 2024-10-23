@@ -32,7 +32,7 @@ Review of papers on artificial intelligence
         </tr>
     <tr>
       <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Image_Detection/Spatial%20Pyramid%20Pooling%20in%20Deep%20Convolutional%20Networks%20for%20Visual%20Recognition">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</a></td>
-      <td align="center">❌</td>
+      <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
     <tr>
