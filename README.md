@@ -29,7 +29,6 @@ Review of papers on artificial intelligence
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
-        </tr>
     <tr>
       <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Image_Detection/Spatial%20Pyramid%20Pooling%20in%20Deep%20Convolutional%20Networks%20for%20Visual%20Recognition">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</a></td>
       <td align="center">✅</td>
@@ -54,6 +53,12 @@ Review of papers on artificial intelligence
     <tr>
       <td>Bone_Fracture</td>
       <td><a href="https://github.com/Jugahy/AI-Paper/tree/main/Bone_Fracture/FracAtlas%20%3A%20A%20Dataset%20for%20Fracture%20Classification%2C%20Localization%20and%20Segmentation%20of%20Musculoskeletal%20Radiographs">FracAtlas : A Dataset for Fracture Classification, Localization and Segmentation of Musculoskeletal Radiographs</a></td>
+      <td align="center">✅</td>
+      <td align="center">❌</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Natural_Language_Processing</td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Natural_Language_Processing/Attention%20Is%20All%20You%20Need.pdf">LSTM</a></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
     </tr>
