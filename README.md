@@ -1,7 +1,3 @@
-# AI-Paper
-
-Review of papers on artificial intelligence
-
 <table>
   <thead>
     <tr>
@@ -60,6 +56,17 @@ Review of papers on artificial intelligence
       <td rowspan="1">Natural_Language_Processing</td>
       <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Natural_Language_Processing/Attention%20Is%20All%20You%20Need.pdf">LSTM</a></td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Generative</td>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Generative/Auto-Encoding%20Variational%20Bayes.pdf">Auto-Encoding Variational Bayes (VAE)</a></td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Jugahy/AI-Paper/blob/main/Generative/Generative%20Adversarial%20Networks.pdf">Generative Adversarial Networks (GAN)</a></td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
     </tr>
   </tbody>
